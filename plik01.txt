@@ -1,1 +1,2 @@
 j-d-pwsz/master: pierwsza linia.
+j-d-pwsz2/master: dodana druga linia.
