@@ -1,2 +1,3 @@
 j-d-pwsz/master: pierwsza linia.
 j-d-pwsz2/master: dodana druga linia.
+j-d-pwsz2/feature-trzecia_linia: dodana trzecia linia.
